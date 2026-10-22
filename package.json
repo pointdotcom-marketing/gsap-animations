@@ -7,6 +7,6 @@
   "type": "module",
   "devDependencies": {
     "esbuild": "^0.25.0",
-    "glob": "^10.3.10"
+    "glob": "^10.5.0"
   }
 }
